@@ -7,42 +7,42 @@
 @keyframes example {
     0% {
         background-color: white;
-        left: 300px;
-        top: 0px;
+        left: 0rem;
+        top: 9rem;
     }
 
     20% {
         background-color: yellow;
-        left: 400px;
-        top: 200px;
+        left: 9rem;
+        top: 18rem;
     }
 
     40% {
         background-color: blue;
-        left: 200px;
-        top: 200px;
+        left: 1rem;
+        top: 22rem;
     }
 
     55% {
         background-color: green;
-        left: 400px;
-        top: 200px;
+        left: 2rem;
+        top: 15rem;
     }
 
     75% {
         background-color: red;
-        left:0px;
-        top: 300px;
+        left:7rem;
+        top: 1rem;
     }
     85% {
         background-color: orange;
-        left:-50px;
-        top: 300px;
+        left:0rem;
+        top: 5rem;
     }
     100% {
         background-color: rgb(26, 255, 0);
-        left:100px;
-        top: 200px;
+        left:0rem;
+        top: 0;
     }
 }
 
@@ -56,8 +56,8 @@ p{
     padding: 5px 10px;
     border: red solid 2px;
     position: relative;
-    top: 400px;
-    left: 300px;
+    top: 5rem;
+    left: 2rem;
     width: 200px;
 }
 
@@ -67,8 +67,8 @@ p{
     border: white solid 2px;
     padding: 5px 10px;
 position: relative;
-    top: 0px;
-    left: 800px;
+    top: 0.5rem;
+    left: 8rem;
     width: fit-content
 }
 
@@ -78,8 +78,8 @@ position: relative;
     border: black solid 2px;
     padding: 5px 10px;
     position: relative;
-        top: 300px;
-        left: 150px;
+        top: 9rem;
+        left: 4rem;
     width: fit-content;
 }
 
@@ -87,10 +87,10 @@ position: relative;
     background-color: violet;
     font-size: 15px;
     border: blue solid 2px;
-    padding: 5px 10px;
+    padding: 5px 13px;
     position: relative;
-        top: 400px;
-        right: 0px;
+        top: 1rem;
+        right: 7rem;
     width: fit-content;
 }
 
