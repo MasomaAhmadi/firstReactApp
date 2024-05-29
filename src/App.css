@@ -102,7 +102,7 @@ button{
     font-size: 25px;
     position: relative;
         animation-name: example;
-        animation-duration: 40s;
+        animation-duration: 20s;
         animation-iteration-count: infinite;
 }
 
